@@ -1,0 +1,47 @@
+HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jogodavelha</title>
+    <link rel="stylesheet" href= "css/style.css">
+ 
+</head>
+<body>
+    <div class= "game">  </div>
+    <script src = "js/jogodavelha.js"> </script>
+    <script>
+        jogodavelha.init( document.querySelector('.game') );
+    </script>
+
+</body>
+</html>
+
+
+
+CSS - Sem alterações
+
+
+
+JS
+
+var jogodavelha={
+    board:["","","","","","","","",""],
+    simbols:["X","0"],
+    container_element: null,
+
+    init:function(container){
+        this.container_element=container;
+    },
+
+    draw: function(){
+        let content = '';
+        for (i in thid.board){
+            content += '>'
+        }
+
+    }
+}
