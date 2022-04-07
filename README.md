@@ -15,8 +15,8 @@ com a finaalidade de completar uma sequência de 3 símbolos iguais na horizonta
 
  
  ### disponibilizado em 
-
-
+ [GitHubPages](https://saielay09.github.io/jogodavelhaEberCiely/)
+ 
  
  ### Prints da tela
 | ID | Primeira Tela | Segunda Tela |
