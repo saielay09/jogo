@@ -22,7 +22,7 @@ com a finaalidade de completar uma sequência de 3 símbolos iguais na horizonta
 | ID | Primeira Tela | Segunda Tela |
 |----|---------------|----------------|
 | 1 | Jogo da velha Limpa| Jogo da Velha preenchida |
-| 2 | ![image](https://user-images.githubusercontent.com/101192829/162212084-553c796c-3319-4234-b904-34a34dd1d9de.png)|![image](https://user-images.githubusercontent.com/101192829/162212232-64dc077a-4d79-4a16-bccc-0570b2039257.png)
+| 2 | ![image](https://user-images.githubusercontent.com/101192829/162212084-553c796c-3319-4234-b904-34a34dd1d9de.png)|![image](https://user-images.githubusercontent.com/101192829/162212232-64dc077a-4d79-4a16-bccc-0570b2039257.png)|
 
 
 ### Função principal
@@ -50,5 +50,8 @@ make_play(position) {
 ```
 
 ### Links usados para o projeto
-[link jogo da velha](https://www.youtube.com/watch?v=M258B1b_pMs)
+[Tic Tac Toe](https://www.youtube.com/watch?v=M258B1b_pMs)
+
+### Descrição das alterações
+Primeiramente foi feito o Jogo da Velha básico. E depois foi criado alguns recursos novos, como a função de recomeçar e colorir os quadrinhos do ganhador.
 
